@@ -1,0 +1,5 @@
+ Write a class called 'Employee' that 
+ extends the 'Person' class and 
+ adds properties like 'salary' and 
+ 'position'. Implement methods to
+  display employee details.
