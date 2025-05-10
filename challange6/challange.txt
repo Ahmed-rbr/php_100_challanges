@@ -1,3 +1,4 @@
-. Write a PHP a class called "BankAccount" 
-with properties like "accountNumber" and "balance". 
-Implement methods to deposit and withdraw money from the account.
+Write a PHP class called 'Person' 
+with properties like 'name' and 'age'. 
+Implement the '__toString()' magic method 
+to display person information.
