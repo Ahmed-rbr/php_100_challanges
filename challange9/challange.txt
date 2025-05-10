@@ -1,0 +1,4 @@
+Write a class called 'Product' with properties
+ like 'name' and 'price'. 
+ Implement the 'Comparable' interface 
+ to compare products based on their prices.
