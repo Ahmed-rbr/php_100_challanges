@@ -1,0 +1,5 @@
+Write a PHP a class called "BankAccount" 
+with properties like "accountNumber" and "balance". 
+Implement methods to deposit and withdraw money from the account.
+
+
